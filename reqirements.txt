@@ -1,0 +1,44 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+#for deployment basic
+streamlit
+# typing
+typing
+#install pydantic
+pydantic
+#for chain visualization  install 
+grandalf
+# for google gemini 
+grpcio-1.71-0
+# for document loader
+langchain-community
+#pypdf
+pypdf
+#unstructured for directoryloader
+unstructured
+#for vector databases
+langchain chromadb openai tiktoken pypdf langchain_openai langchain-community
