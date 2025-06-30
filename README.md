@@ -14,10 +14,6 @@ A Streamlit-based web app that uses OpenAI's language model (via LangChain) to g
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](demo.png) <!-- Optional: Add a screenshot of your app -->
-
 ---
 
 ## 🧠 Technologies Used
